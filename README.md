@@ -23,5 +23,5 @@
 <br />
 <br />
 
-#### Social media 👇🏻
+### Social media:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/alanflorencio)](https://github.com/alanflorencio) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-florencio-b071b018a)](https://www.linkedin.com/in/alan-florencio-b071b018a)
