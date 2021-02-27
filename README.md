@@ -25,4 +25,4 @@
 <br />
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=alanflorencio&count_private=true&show_icons=true&theme=tokyonight)
+<img align="left" alt="Alan Florencio Github Stats" src="https://github-readme-stats.vercel.app/api?username=alanflorencip&show_icons=true&hide_border=true" />
