@@ -28,5 +28,4 @@
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alanflorencio&count_private=true&show_icons=true&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanflorencio&hide=makefile,perl&theme=tokyonight&langs_count=4)
 
