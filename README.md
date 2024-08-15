@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on e-commerce
 - 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me alan.florencio.f@outlook.com (+5573999171141)
+- 📫 How to reach me alan.florencio.f@outlook.com (+5511971119982)
 
 ### Languages and Tools:
 
